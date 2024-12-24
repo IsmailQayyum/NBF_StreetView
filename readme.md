@@ -29,7 +29,7 @@ If you use this dataset in your research, please cite it as follows:
 
 ## Contact
 
-For more specific details on how this dataset was created, please feel free to reach out via email: [ismail.qayyum4@gmail.com]
+For more specific details on how this dataset was created, please feel free to reach out via email: ismail.qayyum4@gmail.com
 
 ## Acknowledgments
 
