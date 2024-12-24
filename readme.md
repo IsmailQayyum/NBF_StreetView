@@ -30,8 +30,8 @@ This dataset is designed to simulate real-world challenges faced by autonomous v
 | Degraded Image | Ground Truth Image |
 |----------------|--------------------|
 | ![98_0](https://github.com/user-attachments/assets/a5cd0d20-fb4d-463f-9196-6bcfc56b0d9e) | ![98_0](https://github.com/user-attachments/assets/47123815-a265-4706-bf90-946506cef912)|
-| ![65_00](https://github.com/user-attachments/assets/267e7795-2b6b-4213-b20d-6983807ee38c) | ![65_00](https://github.com/user-attachments/assets/3960eb2f-7182-46f6-a702-d2f25b06f680) |
-| ![88_00](https://github.com/user-attachments/assets/b960982e-9997-415e-b6d6-3049d0b69952) | ![88_00](https://github.com/user-attachments/assets/7b2980d2-3bcc-43a2-ba8c-b9329084f019) |
+| ![99_0](https://github.com/user-attachments/assets/196287ec-b0f7-4655-bb1f-988efd51bdae) | ![99_0](https://github.com/user-attachments/assets/6c8be7b7-7e18-45fa-b57e-b7c96b807063) |
+| ![108_0](https://github.com/user-attachments/assets/789a8e3b-b114-49bd-9114-d7f460a0693d) | ![108_0](https://github.com/user-attachments/assets/57dfe698-b2fb-49bc-86ed-abc2753360d5) |
 
 ## Usage
 
