@@ -12,8 +12,7 @@ This dataset is designed to simulate real-world challenges faced by autonomous v
 
 ## Preview:
 
-### Degraded and Ground Truth Images
-| Noise |
+### Noise
 | Degraded Image | Ground Truth Image |
 |----------------|--------------------|
 | ![1_000](https://github.com/user-attachments/assets/674a3d13-d0ae-4421-a879-67c3f954c706) | ![1_000](https://github.com/user-attachments/assets/d34e548d-d8f4-4b48-bb48-f6d81e9d7001) |
