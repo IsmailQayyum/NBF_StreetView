@@ -30,7 +30,7 @@ If you use this dataset in your research, please cite it as follows:
 
 ## License
 
-This work is licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+<button onclick="navigator.clipboard.writeText('Qayyum, I., Badar, A., & Rizwan, A. (2024). NBF_StreetView (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14552482'); alert('Citation copied to clipboard!');">Copy Citation</button>
 
 ## Contact
 
