@@ -18,10 +18,25 @@ Ideal for deep learning and computer vision tasks, this dataset offers a robust 
 
 You can access the dataset through the following links:
 
-- [Zenodo link to dataset](https://zenodo.org/record/xxxxxx) *(replace with your actual Zenodo DOI)*
-- [Google Drive link to dataset](https://drive.google.com/xxxxxx) *(replace with your actual Google Drive link)*
+- [Zenodo link to dataset](https://doi.org/10.5281/zenodo.14552482) 
+- [Google Drive link to dataset](https://drive.google.com/drive/folders/1j2vi9OeHsBr0aOE7IXpr0E3SFSV9bjCf?usp=sharing) 
 
 ## Citation
 
 If you use this dataset in your research, please cite it as follows:
 
+Qayyum, I., Badar, A., & Rizwan, A. (2024). NBF_StreetView [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14552482
+
+
+## License
+
+This work is licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+
+## Contact
+
+For more specific details on how this dataset was created, please feel free to reach out via email: [youremail@example.com]
+
+## Acknowledgments
+
+- Special thanks to the contributors and developers for their valuable contributions.
+- This dataset is inspired by real-world challenges faced by autonomous vehicles.
