@@ -16,7 +16,7 @@ This dataset is designed to simulate real-world challenges faced by autonomous v
 | Degraded Image | Ground Truth Image |
 |----------------|--------------------|
 | ![1_000](https://github.com/user-attachments/assets/674a3d13-d0ae-4421-a879-67c3f954c706) | ![1_000](https://github.com/user-attachments/assets/d34e548d-d8f4-4b48-bb48-f6d81e9d7001) |
-| ![11_00](https://github.com/user-attachments/assets/72ea4e53-6bb8-4941-8bb2-f1e286795d08) | ![11_00](https://github.com/user-attachments/assets/972e495a-e106-4421-a9d3-cdbce8d41b94) |
+| ![88_000](https://github.com/user-attachments/assets/f2fe6b63-6a6d-42d3-b9d5-ca84ad6c21a2) | ![88_000](https://github.com/user-attachments/assets/f4195e8a-89d6-4dec-bc65-75721ecdbd94) |
 | ![11_000](https://github.com/user-attachments/assets/eb049483-79d5-4542-97a2-6f394555abd6) | ![11_000](https://github.com/user-attachments/assets/d81ef7ae-d45c-4141-b4c0-33b9a9462e95) |
 
 ### Flare
