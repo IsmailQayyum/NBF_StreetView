@@ -34,7 +34,7 @@ This work is licensed under the [CC BY 4.0 License](https://creativecommons.org/
 
 ## Contact
 
-For more specific details on how this dataset was created, please feel free to reach out via email: [youremail@example.com]
+For more specific details on how this dataset was created, please feel free to reach out via email: [ismail.qayyum4@gmail.com]
 
 ## Acknowledgments
 
