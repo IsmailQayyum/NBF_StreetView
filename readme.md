@@ -27,11 +27,6 @@ If you use this dataset in your research, please cite it as follows:
 
 ```Qayyum, I., Badar, A., & Rizwan, A. (2024). NBF_StreetView [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14552482```
 
-
-## License
-
-<button onclick="navigator.clipboard.writeText('Qayyum, I., Badar, A., & Rizwan, A. (2024). NBF_StreetView (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14552482'); alert('Citation copied to clipboard!');">Copy Citation</button>
-
 ## Contact
 
 For more specific details on how this dataset was created, please feel free to reach out via email: [ismail.qayyum4@gmail.com]
