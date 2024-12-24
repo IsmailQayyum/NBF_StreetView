@@ -1,4 +1,4 @@
-![11_00](https://github.com/user-attachments/assets/c6174ba1-e379-404b-b92e-c1e4cce1c111)# NBF_StreetView Dataset
+# NBF_StreetView Dataset
 
 ## Description
 
@@ -13,10 +13,8 @@ This dataset is designed to simulate real-world challenges faced by autonomous v
 ## Preview:
 
 ### Degraded and Ground Truth Images
-
+| Noise |
 | Degraded Image | Ground Truth Image |
-
-#### Noise
 |----------------|--------------------|
 | ![1_000](https://github.com/user-attachments/assets/674a3d13-d0ae-4421-a879-67c3f954c706) | ![1_000](https://github.com/user-attachments/assets/d34e548d-d8f4-4b48-bb48-f6d81e9d7001) |
 | ![11_00](https://github.com/user-attachments/assets/72ea4e53-6bb8-4941-8bb2-f1e286795d08) | ![11_00](https://github.com/user-attachments/assets/972e495a-e106-4421-a9d3-cdbce8d41b94) |
