@@ -17,7 +17,14 @@ This dataset is designed to simulate real-world challenges faced by autonomous v
 |----------------|--------------------|
 | ![1_000](https://github.com/user-attachments/assets/674a3d13-d0ae-4421-a879-67c3f954c706) | ![1_000](https://github.com/user-attachments/assets/d34e548d-d8f4-4b48-bb48-f6d81e9d7001) |
 | ![11_00](https://github.com/user-attachments/assets/72ea4e53-6bb8-4941-8bb2-f1e286795d08) | ![11_00](https://github.com/user-attachments/assets/972e495a-e106-4421-a9d3-cdbce8d41b94) |
-| ![Degraded Image 3](path/to/degraded3.jpg) | ![Ground Truth 3](path/to/groundtruth3.jpg) |
+| ![11_000](https://github.com/user-attachments/assets/eb049483-79d5-4542-97a2-6f394555abd6) | ![11_000](https://github.com/user-attachments/assets/d81ef7ae-d45c-4141-b4c0-33b9a9462e95) |
+
+### Flare
+| Degraded Image | Ground Truth Image |
+|----------------|--------------------|
+| ![60_00](https://github.com/user-attachments/assets/44c4fd5d-72a0-4dff-809c-0af5607448e9) | ![60_00](https://github.com/user-attachments/assets/06e11197-39a3-49b6-9a54-e3ef8cc84402) |
+| ![11_00](https://github.com/user-attachments/assets/72ea4e53-6bb8-4941-8bb2-f1e286795d08) | ![11_00](https://github.com/user-attachments/assets/972e495a-e106-4421-a9d3-cdbce8d41b94) |
+| ![11_000](https://github.com/user-attachments/assets/eb049483-79d5-4542-97a2-6f394555abd6) | ![11_000](https://github.com/user-attachments/assets/d81ef7ae-d45c-4141-b4c0-33b9a9462e95) |
 
 ## Usage
 
