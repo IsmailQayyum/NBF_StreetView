@@ -48,7 +48,9 @@ You can access the dataset through the following links:
 
 If you use this dataset in your research, please cite it as follows:
 
-`Qayyum, I., Badar, A., & Rizwan, A. (2024). NBF_StreetView [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14552482`
+```
+Qayyum, I., Badar, A., & Rizwan, A. (2024). NBF_StreetView [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14552482
+```
 
 ## Contact
 
